@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/AsynkronIT/protoactor-go/cluster"
-	"github.com/AsynkronIT/protoactor-go/eventstream"
+	"github.com/ChaokunChang/protoactor-go/cluster"
+	"github.com/ChaokunChang/protoactor-go/eventstream"
 	"github.com/hashicorp/consul/api"
 )
 

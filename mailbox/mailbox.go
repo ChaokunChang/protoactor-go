@@ -4,8 +4,8 @@ import (
 	"runtime"
 	"sync/atomic"
 
-	"github.com/AsynkronIT/protoactor-go/internal/queue/mpsc"
-	"github.com/AsynkronIT/protoactor-go/log"
+	"github.com/ChaokunChang/protoactor-go/internal/queue/mpsc"
+	"github.com/ChaokunChang/protoactor-go/log"
 )
 
 type Statistics interface {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AsynkronIT/protoactor-go/eventstream"
+	"github.com/ChaokunChang/protoactor-go/eventstream"
 )
 
 func TestPublishRaceCondition(t *testing.T) {

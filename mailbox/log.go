@@ -1,7 +1,7 @@
 package mailbox
 
 import (
-	"github.com/AsynkronIT/protoactor-go/log"
+	"github.com/ChaokunChang/protoactor-go/log"
 )
 
 var (

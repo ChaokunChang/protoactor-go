@@ -3,14 +3,15 @@ package cluster
 import (
 	bytes "bytes"
 	fmt "fmt"
-	actor "github.com/AsynkronIT/protoactor-go/actor"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
 	io "io"
 	math "math"
 	math_bits "math/bits"
 	reflect "reflect"
 	strings "strings"
+
+	actor "github.com/ChaokunChang/protoactor-go/actor"
+	_ "github.com/gogo/protobuf/gogoproto"
+	proto "github.com/gogo/protobuf/proto"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.
