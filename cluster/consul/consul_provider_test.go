@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AsynkronIT/protoactor-go/cluster"
-	"github.com/AsynkronIT/protoactor-go/eventstream"
+	"github.com/ChaokunChang/protoactor-go/cluster"
+	"github.com/ChaokunChang/protoactor-go/eventstream"
 )
 
 func TestRegisterMember(t *testing.T) {

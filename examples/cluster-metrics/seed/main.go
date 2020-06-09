@@ -4,11 +4,11 @@ import (
 	"log"
 
 	console "github.com/AsynkronIT/goconsole"
-	"github.com/AsynkronIT/protoactor-go/actor"
-	"github.com/AsynkronIT/protoactor-go/cluster"
-	"github.com/AsynkronIT/protoactor-go/cluster/consul"
-	"github.com/AsynkronIT/protoactor-go/examples/cluster/shared"
-	"github.com/AsynkronIT/protoactor-go/remote"
+	"github.com/ChaokunChang/protoactor-go/actor"
+	"github.com/ChaokunChang/protoactor-go/cluster"
+	"github.com/ChaokunChang/protoactor-go/cluster/consul"
+	"github.com/ChaokunChang/protoactor-go/examples/cluster/shared"
+	"github.com/ChaokunChang/protoactor-go/remote"
 )
 
 func Logger(next actor.ReceiverFunc) actor.ReceiverFunc {

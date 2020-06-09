@@ -4,9 +4,9 @@ import (
 	"log"
 
 	console "github.com/AsynkronIT/goconsole"
-	"github.com/AsynkronIT/protoactor-go/actor"
-	"github.com/AsynkronIT/protoactor-go/examples/chat/messages"
-	"github.com/AsynkronIT/protoactor-go/remote"
+	"github.com/ChaokunChang/protoactor-go/actor"
+	"github.com/ChaokunChang/protoactor-go/examples/chat/messages"
+	"github.com/ChaokunChang/protoactor-go/remote"
 	"github.com/emirpasic/gods/sets/hashset"
 )
 

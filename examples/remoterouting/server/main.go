@@ -7,10 +7,10 @@ import (
 	"log"
 
 	console "github.com/AsynkronIT/goconsole"
-	"github.com/AsynkronIT/protoactor-go/actor"
-	"github.com/AsynkronIT/protoactor-go/examples/remoterouting/messages"
-	"github.com/AsynkronIT/protoactor-go/mailbox"
-	"github.com/AsynkronIT/protoactor-go/remote"
+	"github.com/ChaokunChang/protoactor-go/actor"
+	"github.com/ChaokunChang/protoactor-go/examples/remoterouting/messages"
+	"github.com/ChaokunChang/protoactor-go/mailbox"
+	"github.com/ChaokunChang/protoactor-go/remote"
 )
 
 var (

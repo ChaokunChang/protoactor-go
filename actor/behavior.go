@@ -1,6 +1,6 @@
 package actor
 
-import "github.com/AsynkronIT/protoactor-go/log"
+import "github.com/ChaokunChang/protoactor-go/log"
 
 type Behavior []ActorFunc
 

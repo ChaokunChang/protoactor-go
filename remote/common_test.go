@@ -2,8 +2,9 @@ package remote
 
 import (
 	"fmt"
-	"github.com/AsynkronIT/protoactor-go/actor"
 	"time"
+
+	"github.com/ChaokunChang/protoactor-go/actor"
 
 	"github.com/stretchr/testify/mock"
 )

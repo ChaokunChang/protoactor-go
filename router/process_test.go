@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AsynkronIT/protoactor-go/actor"
+	"github.com/ChaokunChang/protoactor-go/actor"
 	"github.com/stretchr/testify/mock"
 )
 

@@ -3,7 +3,7 @@ package router
 import (
 	"sync"
 
-	"github.com/AsynkronIT/protoactor-go/actor"
+	"github.com/ChaokunChang/protoactor-go/actor"
 )
 
 type groupRouterActor struct {
