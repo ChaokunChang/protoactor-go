@@ -1,4 +1,4 @@
-module github.com/AsynkronIT/protoactor-go
+module github.com/ChaokunChang/protoactor-go
 
 require (
 	cloud.google.com/go v0.48.0 // indirect
